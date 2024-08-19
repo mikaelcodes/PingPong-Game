@@ -13,7 +13,7 @@ rod2 = Rod(400)
 
 
 def left_rod_up():
-    parint()
+    print()
 
 
 turtle.listen()
